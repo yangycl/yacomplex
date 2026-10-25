@@ -2,5 +2,7 @@
 name = "yacomplex"
 version = "0.1.0"
 edition = "2024"
+description = "A complex number library with high-level modular structure."
+license = "MIT"
 
 [dependencies]
